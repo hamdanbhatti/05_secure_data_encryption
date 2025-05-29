@@ -33,7 +33,7 @@ A secure data encryption and decryption web application built using **Python** a
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/secure-data-encryption-app.git
+git clone (https://github.com/hamdanbhatti/05_secure_data_encryption.git)
 cd secure-data-encryption-app
 ````
 
