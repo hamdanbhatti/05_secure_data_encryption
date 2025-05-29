@@ -1,12 +1,9 @@
-Great job Hamdan! 👏
-Your final Streamlit-based secure data encryption app is looking solid. Now let's write a professional and clear `README.md` file for your project.
 
----
 
-## 📄 `README.md` for Secure Data Encryption App
+
 
 ````markdown
-# 🔐 Secure Data Encryption App
+#🔐Secure Data Encryption App
 
 A secure data encryption and decryption web application built using **Python** and **Streamlit**. This tool allows users to safely encrypt and decrypt text using a custom passkey, protected by a master password login system.
 
